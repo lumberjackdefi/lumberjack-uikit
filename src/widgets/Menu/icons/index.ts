@@ -27,3 +27,4 @@ export { default as VaultsIcon } from "./Vaults";
 export { default as EggHouseIcon } from "./EggHouse";
 export { default as AxeIcon } from "./Axe";
 export { default as WoodIcon } from "./Wood";
+export { default as ClockIcon } from "./Clock";
